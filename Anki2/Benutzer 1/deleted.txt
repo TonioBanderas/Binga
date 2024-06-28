@@ -1,0 +1,40 @@
+nid	mid	fields
+1634649303696	1634586325711	Oderzeichen	∨
+1634649268149	1634586325711	Undzeichen	∧
+1634649329084	1634586325711	Implikationszeichen	⇒
+1634729053699	1634586325711		
+1634810925927	1634810635713	891d57f7a96f4af388aff84c114f4481-ao-6		<img src="main design recipes.jpg" />	<img src="891d57f7a96f4af388aff84c114f4481-ao-6-Q.svg" />						<img src="891d57f7a96f4af388aff84c114f4481-ao-6-A.svg" />	<img src="891d57f7a96f4af388aff84c114f4481-ao-O.svg" />
+1634810925926	1634810635713	891d57f7a96f4af388aff84c114f4481-ao-5		<img src="main design recipes.jpg" />	<img src="891d57f7a96f4af388aff84c114f4481-ao-5-Q.svg" />						<img src="891d57f7a96f4af388aff84c114f4481-ao-5-A.svg" />	<img src="891d57f7a96f4af388aff84c114f4481-ao-O.svg" />
+1634810925925	1634810635713	891d57f7a96f4af388aff84c114f4481-ao-4		<img src="main design recipes.jpg" />	<img src="891d57f7a96f4af388aff84c114f4481-ao-4-Q.svg" />						<img src="891d57f7a96f4af388aff84c114f4481-ao-4-A.svg" />	<img src="891d57f7a96f4af388aff84c114f4481-ao-O.svg" />
+1634810925924	1634810635713	891d57f7a96f4af388aff84c114f4481-ao-3		<img src="main design recipes.jpg" />	<img src="891d57f7a96f4af388aff84c114f4481-ao-3-Q.svg" />						<img src="891d57f7a96f4af388aff84c114f4481-ao-3-A.svg" />	<img src="891d57f7a96f4af388aff84c114f4481-ao-O.svg" />
+1634810925923	1634810635713	891d57f7a96f4af388aff84c114f4481-ao-2		<img src="main design recipes.jpg" />	<img src="891d57f7a96f4af388aff84c114f4481-ao-2-Q.svg" />						<img src="891d57f7a96f4af388aff84c114f4481-ao-2-A.svg" />	<img src="891d57f7a96f4af388aff84c114f4481-ao-O.svg" />
+1634810925921	1634810635713	891d57f7a96f4af388aff84c114f4481-ao-1		<img src="main design recipes.jpg" />	<img src="891d57f7a96f4af388aff84c114f4481-ao-1-Q.svg" />						<img src="891d57f7a96f4af388aff84c114f4481-ao-1-A.svg" />	<img src="891d57f7a96f4af388aff84c114f4481-ao-O.svg" />
+1637772513836	1634810635713	ced34da757894995afd74d1c912b5254-ao-1		<img src="Ohne Titel.jpg" />	<img src="ced34da757894995afd74d1c912b5254-ao-1-Q.svg" />						<img src="ced34da757894995afd74d1c912b5254-ao-1-A.svg" />	<img src="ced34da757894995afd74d1c912b5254-ao-O.svg" />
+1637772513840	1634810635713	ced34da757894995afd74d1c912b5254-ao-2		<img src="Ohne Titel.jpg" />	<img src="ced34da757894995afd74d1c912b5254-ao-2-Q.svg" />						<img src="ced34da757894995afd74d1c912b5254-ao-2-A.svg" />	<img src="ced34da757894995afd74d1c912b5254-ao-O.svg" />
+1637772513841	1634810635713	ced34da757894995afd74d1c912b5254-ao-3		<img src="Ohne Titel.jpg" />	<img src="ced34da757894995afd74d1c912b5254-ao-3-Q.svg" />						<img src="ced34da757894995afd74d1c912b5254-ao-3-A.svg" />	<img src="ced34da757894995afd74d1c912b5254-ao-O.svg" />
+1637772513842	1634810635713	ced34da757894995afd74d1c912b5254-ao-4		<img src="Ohne Titel.jpg" />	<img src="ced34da757894995afd74d1c912b5254-ao-4-Q.svg" />						<img src="ced34da757894995afd74d1c912b5254-ao-4-A.svg" />	<img src="ced34da757894995afd74d1c912b5254-ao-O.svg" />
+1637772513843	1634810635713	ced34da757894995afd74d1c912b5254-ao-5		<img src="Ohne Titel.jpg" />	<img src="ced34da757894995afd74d1c912b5254-ao-5-Q.svg" />						<img src="ced34da757894995afd74d1c912b5254-ao-5-A.svg" />	<img src="ced34da757894995afd74d1c912b5254-ao-O.svg" />
+1637772513844	1634810635713	ced34da757894995afd74d1c912b5254-ao-6		<img src="Ohne Titel.jpg" />	<img src="ced34da757894995afd74d1c912b5254-ao-6-Q.svg" />						<img src="ced34da757894995afd74d1c912b5254-ao-6-A.svg" />	<img src="ced34da757894995afd74d1c912b5254-ao-O.svg" />
+1637772513845	1634810635713	ced34da757894995afd74d1c912b5254-ao-7		<img src="Ohne Titel.jpg" />	<img src="ced34da757894995afd74d1c912b5254-ao-7-Q.svg" />						<img src="ced34da757894995afd74d1c912b5254-ao-7-A.svg" />	<img src="ced34da757894995afd74d1c912b5254-ao-O.svg" />
+1637772513846	1634810635713	ced34da757894995afd74d1c912b5254-ao-8		<img src="Ohne Titel.jpg" />	<img src="ced34da757894995afd74d1c912b5254-ao-8-Q.svg" />						<img src="ced34da757894995afd74d1c912b5254-ao-8-A.svg" />	<img src="ced34da757894995afd74d1c912b5254-ao-O.svg" />
+1685127481183	1634586325711	Surdo Break	
+1719497310850	1634586325714		
+1719499868209	1634586325714	hugga	bugga
+1719500128437	1719500069138	besoin	<div class="definition"><ol><li dict="French-English dictionary">demand, need</li></ol></div>	
+1719518840863	1719500069138	monde	<div class="definition"><ol><li dict="French-English dictionary">world</li></ol></div>	
+1719518845111	1719500069138	fierté	<div class="definition"><ol><li dict="French-English dictionary">arrogance<br><br>haughtiness<br><br>hauteur, haughtiness, arrogance<br><br>hauteur</li></ol></div>	
+1719521650684	1719500069138	cou	<div class="definition"><ol><li dict="French-English dictionary">neck</li></ol></div>	
+1719521753530	1719500069138	possédait	<div class="definition"><ol>
+<i>verb</i><br><ol><li>to own; to possess</li></ol></ol></div>	
+1719527500248	1719500069138	<div class="definition"><ol>
+<i>verb</i><br><ol><li>to smoke (food etc.)</li></ol></ol></div>	saurait	 Rien aujourd'hui ne <b>saurait</b> me mettre en colère.
+1719527674349	1719500069138	<div class="definition"><ol>
+<i>verb</i><br><ol><li>to nail (to attach using a nail)</li><li>(vulgar) to nail, shag, fuck</li></ol></ol></div>	cloué	Mr Dursley resta <b>cloué</b> sur place.
+1719521622863	1719500069138	perceuses	<div class="definition"><ol>
+<i>noun</i><br><ol><li>drill (tool)</li></ol></ol></div>	
+1719518845152	1719500069138	perdre	<div class="definition"><ol><li dict="French-English dictionary">lose</li></ol></div>	
+1719528262516	1719527982465	<div class="definition"><ol><li dict="French-English dictionary">chase, persecute, prosecute, pursue<br><br>persecute<br><br>prosecute</li></ol></div>	poursuivre	Le vieil homme prit alors Mr Dursley par la taille et le serra contre lui avant de <b>poursuivre</b> son chemin.
+1719528298236	1719527982465	<div class="definition"><ol>
+<p><b><font color="blue">VOITURE</font></b>.</p> n. f. Moyen de transport consistant en une caisse montée sur des roues. <i>Voiture à deux roues, à quatre roues. Voiture fermée, découverte. Voiture suspendue. Voiture à deux chevaux. Voiture à âne. Voiture automobile. En voiture pour telle direction! Voiture publique. Voiture particulière. Voiture de maître. Voiture de louage. Monter en voiture. Descendre de voiture. Aller en voiture. Tomber de voiture.</i> <br/>Il s'emploie particulièrement pour Voiture particulière. <i>Faites avancer ma voiture. Il a sa voiture.</i><br/><i>Voiture de place,</i> Voiture à la disposition du public dans les villes, et qu'on prend pour faire des courses. <i>Voiture de remise</i> ou simplement <i>Remise,</i> Voiture qu'on loue à la journée, au mois, à l'année.<br/><i>Voiture à bras,</i> Petite voiture traînée à bras d'homme.<br/><i>Voiture d'enfant,</i> Petite voiture que l'on pousse à bras et où l'on promène les enfants en bas âge.<br/><i>Voiture de vin, de sucre, etc.,</i> Voiture chargée de ces marchandises.<br/><b>VOITURE</b> désigne encore le Transport des personnes, des marchandises. <i>On a payé tant pour la voiture de ces marchandises.</i> Il vieillit en ce sens. <br/><i>Lettre de voiture,</i> Lettre qui contient l'indication des choses dont un voiturier est chargé.</ol></div>	voiture	 Il en était tout retourné et se dépêcha de remonter dans sa <b>voiture</b>.
+1719531723832	1719527982465	<div class="definition"><ol>
+<i>verb</i><br><ol><li>to hum (to make sound with lips closed)</li></ol></ol></div>	fredonner	 Mr Dursley <b>fredonnait</b> un air en nouant sa cravate la plus sinistre pour aller travailler et Mrs Dursley racontait d'un ton badin les derniers potins du quartier en s'efforçant d'installer sur sa chaise de bébé le jeune Dudley qui braillait de toute la force de ses poumons.
